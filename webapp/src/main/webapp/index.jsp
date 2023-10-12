@@ -1,7 +1,7 @@
 <form action="action_page.php">
   <div class="container">
     <h1>Register</h1>
-    <p>New User Registration using Ansible</p>
+    <p>New User Registration using Ansible!</p>
     <hr>
 
     <label for="email"><b>User Email</b></label>
